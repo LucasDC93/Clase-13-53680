@@ -1,8 +1,11 @@
 /*utilidades*/
 @import "./utilities/reset";
+@import './utilities/fonts';
 /*sections*/
 @import './sections/nav';
 /*colors*/
 @import "./utilities/colors";
-//font//
-@import './utilities/fonts';
+
+//peliculas//
+@import "./sections/peliculas";
+
